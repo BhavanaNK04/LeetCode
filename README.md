@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/BhavanaNK04/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/BhavanaNK04/LeetCode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/BhavanaNK04/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/BhavanaNK04/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/BhavanaNK04/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/BhavanaNK04/LeetCode/tree/master/0268-missing-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/BhavanaNK04/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/BhavanaNK04/LeetCode/tree/master/0268-missing-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/BhavanaNK04/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Sorting
 |  |
 | ------- |
