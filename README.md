@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/BhavanaNK04/LeetCode/tree/master/0049-group-anagrams) |
 | [0162-find-peak-element](https://github.com/BhavanaNK04/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/BhavanaNK04/LeetCode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/BhavanaNK04/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/BhavanaNK04/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1572-matrix-diagonal-sum](https://github.com/BhavanaNK04/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/BhavanaNK04/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/BhavanaNK04/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/BhavanaNK04/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/BhavanaNK04/LeetCode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/BhavanaNK04/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/BhavanaNK04/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/BhavanaNK04/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/BhavanaNK04/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/BhavanaNK04/LeetCode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/BhavanaNK04/LeetCode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/BhavanaNK04/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/BhavanaNK04/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3536-maximum-product-of-two-digits](https://github.com/BhavanaNK04/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
