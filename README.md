@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/BhavanaNK04/LeetCode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/BhavanaNK04/LeetCode/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/BhavanaNK04/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/BhavanaNK04/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/BhavanaNK04/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/BhavanaNK04/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/BhavanaNK04/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/BhavanaNK04/LeetCode/tree/master/0049-group-anagrams) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/BhavanaNK04/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/BhavanaNK04/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/BhavanaNK04/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/BhavanaNK04/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/BhavanaNK04/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/BhavanaNK04/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/BhavanaNK04/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/BhavanaNK04/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
