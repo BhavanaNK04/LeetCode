@@ -4,7 +4,7 @@ public:
         unordered_map<int,int>m;
         int c=0;
         int p=2;
-        for(char &ch:word)
+        for(char ch:word)
         {
             if(p>9)
             {
