@@ -1,19 +1,12 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        unordered_map<int,int>m;
-        int c=0;
-        int p=2;
-        for(char ch:word)
-        {
-            if(p>9)
-            {
-                p=2;
-            }
-            m[p]++;
-            c+=m[p];
-            p++;
+        int n = word.length();
+        int pushCnt = 0;
+
+        for(int i = 0; i < n; i++){
+            pushCnt += i / 8 + 1;
         }
-        return c;
+        return pushCnt;
     }
 };
