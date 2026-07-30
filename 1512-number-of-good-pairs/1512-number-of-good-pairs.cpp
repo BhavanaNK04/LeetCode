@@ -5,8 +5,12 @@ public:
         int ans=0;
         for(auto a:nums)
         {
-            ans+=freq[a];
             freq[a]++;
+        }
+        for(auto a:freq)
+        {
+            int n=a.second-1;
+            ans=ans+(n*(n+1)/2);
         }
         return ans;
     }
