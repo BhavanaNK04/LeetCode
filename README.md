@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/BhavanaNK04/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/BhavanaNK04/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/BhavanaNK04/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhavanaNK04/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/BhavanaNK04/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/BhavanaNK04/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/BhavanaNK04/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/BhavanaNK04/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhavanaNK04/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/BhavanaNK04/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhavanaNK04/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/BhavanaNK04/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/BhavanaNK04/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/BhavanaNK04/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhavanaNK04/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhavanaNK04/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/BhavanaNK04/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/BhavanaNK04/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Database
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/BhavanaNK04/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/BhavanaNK04/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/BhavanaNK04/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhavanaNK04/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/BhavanaNK04/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/BhavanaNK04/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/BhavanaNK04/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -151,4 +155,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhavanaNK04/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhavanaNK04/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
