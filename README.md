@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/BhavanaNK04/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/BhavanaNK04/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [1045-customers-who-bought-all-products](https://github.com/BhavanaNK04/LeetCode/tree/master/1045-customers-who-bought-all-products) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/BhavanaNK04/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Enumeration
 |  |
 | ------- |
