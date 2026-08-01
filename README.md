@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/BhavanaNK04/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/BhavanaNK04/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/BhavanaNK04/LeetCode/tree/master/0283-move-zeroes) |
+| [0486-predict-the-winner](https://github.com/BhavanaNK04/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhavanaNK04/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/BhavanaNK04/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/BhavanaNK04/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/BhavanaNK04/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/BhavanaNK04/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/BhavanaNK04/LeetCode/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/BhavanaNK04/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/BhavanaNK04/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhavanaNK04/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/BhavanaNK04/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/BhavanaNK04/LeetCode/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/BhavanaNK04/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/BhavanaNK04/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/BhavanaNK04/LeetCode/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/BhavanaNK04/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/BhavanaNK04/LeetCode/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
@@ -158,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhavanaNK04/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhavanaNK04/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/BhavanaNK04/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
