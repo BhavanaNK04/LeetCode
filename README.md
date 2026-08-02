@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/BhavanaNK04/LeetCode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/BhavanaNK04/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhavanaNK04/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/BhavanaNK04/LeetCode/tree/master/0877-stone-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/BhavanaNK04/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/BhavanaNK04/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/BhavanaNK04/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/BhavanaNK04/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/BhavanaNK04/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhavanaNK04/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/BhavanaNK04/LeetCode/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/BhavanaNK04/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhavanaNK04/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/BhavanaNK04/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/BhavanaNK04/LeetCode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/BhavanaNK04/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/BhavanaNK04/LeetCode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/BhavanaNK04/LeetCode/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -166,4 +169,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/BhavanaNK04/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/BhavanaNK04/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
