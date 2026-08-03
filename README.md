@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/BhavanaNK04/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/BhavanaNK04/LeetCode/tree/master/0049-group-anagrams) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/BhavanaNK04/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/BhavanaNK04/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -174,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/BhavanaNK04/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/BhavanaNK04/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/BhavanaNK04/LeetCode/tree/master/1406-stone-game-iii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/BhavanaNK04/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/BhavanaNK04/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
