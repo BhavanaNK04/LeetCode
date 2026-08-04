@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/BhavanaNK04/LeetCode/tree/master/0049-group-anagrams) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/BhavanaNK04/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/BhavanaNK04/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/BhavanaNK04/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/BhavanaNK04/LeetCode/tree/master/0283-move-zeroes) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/BhavanaNK04/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/BhavanaNK04/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/BhavanaNK04/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/BhavanaNK04/LeetCode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/BhavanaNK04/LeetCode/tree/master/0486-predict-the-winner) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BhavanaNK04/LeetCode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/BhavanaNK04/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BhavanaNK04/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/BhavanaNK04/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/BhavanaNK04/LeetCode/tree/master/2390-removing-stars-from-a-string) |
