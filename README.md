@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/BhavanaNK04/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/BhavanaNK04/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/BhavanaNK04/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/BhavanaNK04/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/BhavanaNK04/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/BhavanaNK04/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/BhavanaNK04/LeetCode/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/BhavanaNK04/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/BhavanaNK04/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/BhavanaNK04/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/BhavanaNK04/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/BhavanaNK04/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/BhavanaNK04/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/BhavanaNK04/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/BhavanaNK04/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/BhavanaNK04/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/BhavanaNK04/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/BhavanaNK04/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/BhavanaNK04/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/BhavanaNK04/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/BhavanaNK04/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
