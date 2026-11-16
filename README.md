@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/BhavanaNK04/LeetCode/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BhavanaNK04/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/BhavanaNK04/LeetCode/tree/master/0162-find-peak-element) |
+| [0238-product-of-array-except-self](https://github.com/BhavanaNK04/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/BhavanaNK04/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/BhavanaNK04/LeetCode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/BhavanaNK04/LeetCode/tree/master/0486-predict-the-winner) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/BhavanaNK04/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/BhavanaNK04/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3904-smallest-stable-index-ii](https://github.com/BhavanaNK04/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
