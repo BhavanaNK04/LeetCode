@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/BhavanaNK04/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhavanaNK04/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/BhavanaNK04/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/BhavanaNK04/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/BhavanaNK04/LeetCode/tree/master/0877-stone-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/BhavanaNK04/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/BhavanaNK04/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/BhavanaNK04/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/BhavanaNK04/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/BhavanaNK04/LeetCode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/BhavanaNK04/LeetCode/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/BhavanaNK04/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/BhavanaNK04/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Matrix
