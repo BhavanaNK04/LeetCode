@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/BhavanaNK04/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/BhavanaNK04/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/BhavanaNK04/LeetCode/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BhavanaNK04/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/BhavanaNK04/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/BhavanaNK04/LeetCode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/BhavanaNK04/LeetCode/tree/master/0268-missing-number) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/BhavanaNK04/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
