@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhavanaNK04/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhavanaNK04/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/BhavanaNK04/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/BhavanaNK04/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/BhavanaNK04/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/BhavanaNK04/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/BhavanaNK04/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/BhavanaNK04/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhavanaNK04/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhavanaNK04/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/BhavanaNK04/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3536-maximum-product-of-two-digits](https://github.com/BhavanaNK04/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/BhavanaNK04/LeetCode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/BhavanaNK04/LeetCode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/BhavanaNK04/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/BhavanaNK04/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/BhavanaNK04/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3524-find-x-value-of-array-i](https://github.com/BhavanaNK04/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 ## Memoization
 |  |
