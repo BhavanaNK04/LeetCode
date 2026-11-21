@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/BhavanaNK04/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/BhavanaNK04/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/BhavanaNK04/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/BhavanaNK04/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/BhavanaNK04/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/BhavanaNK04/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/BhavanaNK04/LeetCode/tree/master/3524-find-x-value-of-array-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhavanaNK04/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/BhavanaNK04/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/BhavanaNK04/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/BhavanaNK04/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/BhavanaNK04/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/BhavanaNK04/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/BhavanaNK04/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhavanaNK04/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhavanaNK04/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/BhavanaNK04/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/BhavanaNK04/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/BhavanaNK04/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/BhavanaNK04/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/BhavanaNK04/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/BhavanaNK04/LeetCode/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/BhavanaNK04/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -346,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/BhavanaNK04/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/BhavanaNK04/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
