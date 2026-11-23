@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/BhavanaNK04/LeetCode/tree/master/0877-stone-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/BhavanaNK04/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/BhavanaNK04/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1352-product-of-the-last-k-numbers](https://github.com/BhavanaNK04/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/BhavanaNK04/LeetCode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/BhavanaNK04/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhavanaNK04/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/BhavanaNK04/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhavanaNK04/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/BhavanaNK04/LeetCode/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/BhavanaNK04/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/BhavanaNK04/LeetCode/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/BhavanaNK04/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhavanaNK04/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/BhavanaNK04/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/BhavanaNK04/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/BhavanaNK04/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3904-smallest-stable-index-ii](https://github.com/BhavanaNK04/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
@@ -355,4 +358,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/BhavanaNK04/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/BhavanaNK04/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/BhavanaNK04/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
